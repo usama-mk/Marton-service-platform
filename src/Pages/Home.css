@@ -1,0 +1,41 @@
+.Home{
+    background-color: #202020;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.w3schools.com/w3images/mac.jpg);
+    min-height: 100%;
+    height: 100vh;
+}
+
+.homeHeader{
+    font-size: 64px;
+    color: #009687;
+    font-weight: bold;
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 2vw;
+    padding-top: 5vh;
+
+}
+
+.homeSubHeader{
+    font-size: 18px;
+    color: #e8e8e8;
+    margin: 20px;
+    margin-left: 2.5vw;
+    font-weight: 600;
+
+}
+
+.learnBtn{
+    color: white;
+    background-color:#009687;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    top: 25%;
+    left: 2%;
+}
